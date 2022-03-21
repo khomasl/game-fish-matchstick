@@ -1,0 +1,27 @@
+{
+  "name": "game-fish-matchstick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khomasl/game-fish-matchstick-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khomasl/game-fish-matchstick-/issues"
+  },
+  "homepage": "https://github.com/khomasl/game-fish-matchstick-#readme",
+  "devDependencies": {
+    "directory-tree": "^2.2.4",
+    "fs-extra": "^8.1.0",
+    "http-server": "^0.12.3",
+    "monaco-editor": "^0.18.1",
+    "puppeteer": "^2.0.0"
+  }
+}
