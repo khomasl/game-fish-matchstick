@@ -1,3 +1,7 @@
+.count-matches {
+  color: red;
+}
+
 .block-matches {
   padding: 120px;
   width: 500px;
