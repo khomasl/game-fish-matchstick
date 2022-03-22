@@ -1,5 +1,5 @@
 Клонируй и запускай
-npm start
+##npm start
 
 или
 
