@@ -61,7 +61,7 @@ const countMatches = document.querySelector('.count-matches')
 blockMatches.addEventListener('click', toggleMatch)
 
 function toggleMatch(event) {
-  event.preventDefault()
+  // event.preventDefault()
 
   const el = event.target
   if (el.nodeName != 'A' && el.nodeName != 'SPAN') return
